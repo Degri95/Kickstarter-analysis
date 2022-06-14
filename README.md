@@ -16,7 +16,7 @@ The purpose of this project is visualize theater campaign outcomes to analyze. W
 
 We performed this analysis by manipulating and filtering the data to create Pivot tables and charts. We used the [=COUNTIF](https://support.microsoft.com/en-us/office/countif-function-e0de10c6-f885-4e71-abb4-1f464816df34) function, [Pivot Tables](https://support.microsoft.com/en-us/office/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576) and a few more functions to help generate the data we want for our visualization.
 
-A challenge I had during this project properly working with pivot tables. I didn't have much experience with them before this project. After some Googling and trial and error, I feel like I have a much better understanding of them after working on this project. 
+A challenge I had during this project was properly working with pivot tables. I didn't have much experience with them before this project. After some Googling and trial and error, I feel like I have a much better understanding of them after working on this project. 
 
 ### Analysis of Outcomes Based on Launch Date
 
