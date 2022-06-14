@@ -4,7 +4,7 @@
 
 Our freind Louise wants to start a crowd funding campaign to help fund her play. Using previous Kickstarter data we will help determine if specific factors contribute to the success.
 
-In this project we're deep diving into kickstarter campaign data in excel to devise an analysis on trends in the data. Using Excel we've transformed and displayed the data into charts we can use to analyze and draw conclusions from. In this analysis we can observe the success and failure outcome based on launch date. We can also observe the outcomes based on their monetary goal.
+In this project we're deep diving into Kickstarter campaign data in excel to devise an analysis on trends in the data. Using Excel we've transformed and displayed the data into charts we can use to analyze and draw conclusions from. In this analysis we can observe the success and failure outcome based on launch date. We can also observe the outcomes based on their monetary goal.
 
 Data Source: (https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-online/module_1/data-1-1-3-StarterBook.xlsx)
 
@@ -22,7 +22,7 @@ A challenge I had during this project properly working with pivot tables. I didn
 
 ![Outcomes Based on Launch Date Chart](/Resources/Theater_Outcomes_vs_Launch.png)
 
-Analyzing this chart we can see the Outcomes of Theater kickstarters based on their launch date. 
+Analyzing this chart we can see the Outcomes of Theater Kickstarters based on their launch date. 
 
 - Theater Kickstarters had a much higher success rate in the month of May/June.
 - December has the lowest success outcome. Almost equal to the count of failed outcomes in December.
@@ -39,15 +39,15 @@ Analyzing this chart we can see the Outcomes based on the goal of the Kickstarte
 ## Results
 
 - The best time to launch a Kickstarter for Theater would be Late spring into early summer (May to July). 
-- November to January have the least successful success outcomes and should be avoided if tryin to Launch a kickstarter.
+- November to January have the least successful success outcomes and should be avoided if tryin to Launch a Kickstarter.
 
-- The most successful kickstarters are below $4,999.
+- The most successful Kickstarters are below $4,999.
 - The Success and failure percentages flip at $35,000 to $44,999.
 
 ## Limitations on this dataset
 
 - Providing reason why the campaigns failed. There are many other factors that could change the outcome that are not provided. 
-- Were the kickstarters marketed and / or promoted? How did each Kickstarter reach their audience if at all?
+- Were the Kickstarters marketed and / or promoted? How did each Kickstarter reach their audience if at all?
 
 
 ## Other tables and graphs we could create
