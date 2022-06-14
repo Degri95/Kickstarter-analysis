@@ -24,8 +24,8 @@ A challenge I had during this project properly working with pivot tables. I didn
 
 Analyzing this chart we can see the Outcomes of Theater kickstarters based on their launch date. 
 
--Theater Kickstarters had a much higher success rate in the month of May/June.
--December has the lowest success outcome. Almost equal to the count of failed outcomes in December.
+- Theater Kickstarters had a much higher success rate in the month of May/June.
+- December has the lowest success outcome. Almost equal to the count of failed outcomes in December.
 
 ### Analysis of Outcomes Based on Goals
 
@@ -33,16 +33,16 @@ Analyzing this chart we can see the Outcomes of Theater kickstarters based on th
 
 Analyzing this chart we can see the Outcomes based on the goal of the Kickstarters.
 
--As the goal increases The percentage failed line starts to ascend until around $29,000.
--The highest success rate is Kickstarters with a goal $1,000 or less.
+- As the goal increases The percentage failed line starts to ascend until around $29,000.
+- The highest success rate is Kickstarters with a goal $1,000 or less.
 
 ## Results
 
--The best time to launch a Kickstarter for Theater would be Late spring into early summer (May to July). 
--November to January have the least successful success outcomes and should be avoided if tryin to Launch a kickstarter.
+- The best time to launch a Kickstarter for Theater would be Late spring into early summer (May to July). 
+- November to January have the least successful success outcomes and should be avoided if tryin to Launch a kickstarter.
 
--The most successful kickstarters are below $4,999.
--The Success and failure percentages flip at $35,000 to $44,999.
+- The most successful kickstarters are below $4,999.
+- The Success and failure percentages flip at $35,000 to $44,999.
 
 ## Limitations on this dataset
 
