@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-Our freind Louise wants to start a crowd funding campaign to help fund her play. Using previous Kickstarter data we will help determine if specific factors contribute to the success.
+Our friend Louise wants to start a crowd funding campaign to help fund her play. Using previous Kickstarter data we will help determine if specific factors contribute to the success.
 
 In this project we're deep diving into Kickstarter campaign data in excel to devise an analysis on trends in the data. Using Excel we've transformed and displayed the data into charts we can use to analyze and draw conclusions from. In this analysis we can observe the success and failure outcome based on launch date. We can also observe the outcomes based on their monetary goal.
 
