@@ -38,7 +38,7 @@ Analyzing this chart we can see the Outcomes based on the goal of the Kickstarte
 
 ## Results
 
-- The best time to launch a Kickstarter for Theater would be Late spring into early summer (May to July). 
+-The best time to launch a Kickstarter for Theater would be Late spring into early summer (May to July). 
 -November to January have the least successful success outcomes and should be avoided if tryin to Launch a kickstarter.
 
 -The most successful kickstarters are below $4,999.
